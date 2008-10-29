@@ -1,0 +1,10 @@
+Build.PL
+Changes
+MANIFEST
+MANIFEST.SKIP
+META.yml
+examples/browse.pl
+lib/Wx/Perl/BrowseButton.pm
+t/01_load.t
+t/zy_pod_coverage.t
+t/zz_pod.t
